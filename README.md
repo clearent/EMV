@@ -189,7 +189,7 @@
             </td>
         </tr>
         <tr>
-            <td><strong>csm</strong></td>
+            <td><strong>cvm</strong></td>
             <td>Cardholder Verification Method (only for EMV transactions):
 
 
