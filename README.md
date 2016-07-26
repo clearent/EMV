@@ -178,7 +178,7 @@
             <td>Ip of originated transaction. Not returned if not provided.</td>
         </tr>
         <tr>
-            <td><strong>emv-data</strong></td>
+            <td><strong>emv-entry-method</strong></td>
             <td>Request EMV tags in tag-length-value format (a.k.a. TLV)
 
                 EMV entry methods:
@@ -203,6 +203,11 @@
         <tr>
             <td><strong>key-serial-number</strong></td>
             <td>Device serial number used to encrypt emv data
+            </td>
+        </tr>
+         <tr>
+            <td><strong>env-data</strong></td>
+            <td>Encrypted EMV data
             </td>
         </tr>
     </table>
