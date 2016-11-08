@@ -206,6 +206,11 @@
             </td>
         </tr>
          <tr>
+            <td><strong>pin-data</strong></td>
+            <td>encrypted pin block (TSYS key) 
+            </td>
+        </tr>
+         <tr>
             <td><strong>env-data</strong></td>
             <td>Encrypted EMV data
             </td>
@@ -233,6 +238,7 @@
         <emv-data> 4F07A00000000310109F120F4352454449544F2044452056495341500B56495341204352454449545F300202015F3401015F2503090701C20131</emv-data>
         <emv-entry-method>EMV_DIP</emv_entry-method>
             <key-serial-number> ……………</key-serial-number>
+            <pin-data>PINDATAHERE</pin-data>
             <cvm>MSG</cvm>
     </textarea>
             </td>
