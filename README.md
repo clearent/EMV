@@ -196,6 +196,8 @@
                 <ul>NON (no cardholder verification method)</ul>
                 <ul>MSG (Manual verification of signature)</ul>
                 <ul>OFC (Offline PIN in clear)</ul>
+                <ul>PIN (Online PIN)</ul>
+                <ul>OFE  (Offline Pin Encrypted)</ul>
                 </li>
             </td>
         </tr>
