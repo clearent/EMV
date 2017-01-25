@@ -185,6 +185,7 @@
                 <ul>EMV_DIP</ul>
                 <ul>EMV_CONTACTLESS</ul>
                 <ul>EMV_FALLBACK_SWIPE</ul>
+                <ul>EMV_FALLBACK_NONTECH</ul>
                 </li>
             </td>
         </tr>
