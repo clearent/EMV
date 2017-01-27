@@ -232,8 +232,20 @@
             </td>
         </tr>
         <tr>
-            <td><strong>pos-capability</strong></td>
-            <td>EMV (for terminals that have EMV Support)
+            <td><strong>pos_capabilities</strong></td>
+            <td> list of POS Capabilites 
+            </td>
+        </tr>
+        <tr>
+             <td>List all types terminal supports:
+
+
+                <ul>KEY</ul>
+                <ul>SWIPE</ul>
+                <ul>CONTACLESS</ul>
+                <ul>EMV</ul>
+                
+                </li>
             </td>
         </tr>
     </table>
