@@ -214,8 +214,26 @@
             </td>
         </tr>
          <tr>
-            <td><strong>env-data</strong></td>
+            <td><strong>emv-data</strong></td>
             <td>Encrypted EMV data
+            </td>
+        </tr>
+        
+          <tr>
+            <td><strong>contactless-device </strong></td>
+            <td>Type of device issue contactless transaction:
+
+
+                <ul>CARD, card)</ul>
+                <ul>PHONE (phone)</ul>
+                <ul>MOBILE_TAG (anything that is not a card/phone)</ul>
+                
+                </li>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>pos-capability</strong></td>
+            <td>EMV (for terminals that have EMV Support)
             </td>
         </tr>
     </table>
